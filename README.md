@@ -16,7 +16,7 @@ The dataset was sourced from the [PahariLI repository](https://github.com/rachan
 
 - **Authors:**  
   - Atul Joshi, BTech, Graphic Era Hill University  
-  - Ankur Singh Bist, HOD, Graphic Era Hill University  
+  - Ankur Singh Bist, HOD (CSE), Graphic Era Hill University  
   - Neelesh Tanwar, Walmart (California)  
 
 ## Why This Project is Needed

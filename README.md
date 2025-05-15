@@ -265,6 +265,9 @@ https://docs.google.com/document/d/1lAnRR6S2prrl7Rtotlwcj4cdbpTFt3Ri/edit?usp=sh
 - **Integration:**  
   Developing a user-friendly interface or API to make the translation service accessible.
 
+## The site is live at https://huggingface.co/spaces/atul120411/KumaoniBERT
+The project is still under work.
+
 ## Contact
 
 For any questions or contributions, please reach out to the authors via GitHub or contact the project leads directly.

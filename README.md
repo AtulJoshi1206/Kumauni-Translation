@@ -268,6 +268,12 @@ https://docs.google.com/document/d/1lAnRR6S2prrl7Rtotlwcj4cdbpTFt3Ri/edit?usp=sh
 ## The site is live at https://huggingface.co/spaces/atul120411/KumaoniBERT
 The project is still under work.
 
+![image](https://github.com/user-attachments/assets/0f595b17-a24d-4ff7-8895-2a1926fbf80b)
+![image](https://github.com/user-attachments/assets/c8955f53-a175-4ae4-ac5a-ff651f48b899)
+![image](https://github.com/user-attachments/assets/de1761cc-0a89-4f98-af6a-f9404e7dacaf)
+![image](https://github.com/user-attachments/assets/2d80d0a6-a61c-4642-a72b-adbcad66040c)
+
+
 ## Contact
 
 For any questions or contributions, please reach out to the authors via GitHub or contact the project leads directly.
